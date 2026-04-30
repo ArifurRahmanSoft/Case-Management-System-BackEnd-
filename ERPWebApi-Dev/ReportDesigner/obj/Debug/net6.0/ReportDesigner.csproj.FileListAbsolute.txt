@@ -1,0 +1,47 @@
+E:\ProjectsDev\BasePlatform\VS2022\BackEnd\ERPWebApi-Dev\ReportDesigner\bin\Debug\net6.0\ReportDesigner.deps.json
+E:\ProjectsDev\BasePlatform\VS2022\BackEnd\ERPWebApi-Dev\ReportDesigner\bin\Debug\net6.0\ReportDesigner.dll
+E:\ProjectsDev\BasePlatform\VS2022\BackEnd\ERPWebApi-Dev\ReportDesigner\bin\Debug\net6.0\ReportDesigner.pdb
+E:\ProjectsDev\BasePlatform\VS2022\BackEnd\ERPWebApi-Dev\ReportDesigner\obj\Debug\net6.0\ReportDesigner.csproj.AssemblyReference.cache
+E:\ProjectsDev\BasePlatform\VS2022\BackEnd\ERPWebApi-Dev\ReportDesigner\obj\Debug\net6.0\ReportDesigner.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProjectsDev\BasePlatform\VS2022\BackEnd\ERPWebApi-Dev\ReportDesigner\obj\Debug\net6.0\ReportDesigner.AssemblyInfoInputs.cache
+E:\ProjectsDev\BasePlatform\VS2022\BackEnd\ERPWebApi-Dev\ReportDesigner\obj\Debug\net6.0\ReportDesigner.AssemblyInfo.cs
+E:\ProjectsDev\BasePlatform\VS2022\BackEnd\ERPWebApi-Dev\ReportDesigner\obj\Debug\net6.0\ReportDesigner.csproj.CoreCompileInputs.cache
+E:\ProjectsDev\BasePlatform\VS2022\BackEnd\ERPWebApi-Dev\ReportDesigner\obj\Debug\net6.0\ReportDesigner.dll
+E:\ProjectsDev\BasePlatform\VS2022\BackEnd\ERPWebApi-Dev\ReportDesigner\obj\Debug\net6.0\refint\ReportDesigner.dll
+E:\ProjectsDev\BasePlatform\VS2022\BackEnd\ERPWebApi-Dev\ReportDesigner\obj\Debug\net6.0\ReportDesigner.pdb
+E:\ProjectsDev\BasePlatform\VS2022\BackEnd\ERPWebApi-Dev\ReportDesigner\obj\Debug\net6.0\ref\ReportDesigner.dll
+E:\ProjectsDev\BasePlatform\BackEnd\VS2022\ERPWebApi-Dev\ReportDesigner\bin\Debug\net6.0\ReportDesigner.deps.json
+E:\ProjectsDev\BasePlatform\BackEnd\VS2022\ERPWebApi-Dev\ReportDesigner\bin\Debug\net6.0\ReportDesigner.dll
+E:\ProjectsDev\BasePlatform\BackEnd\VS2022\ERPWebApi-Dev\ReportDesigner\bin\Debug\net6.0\ReportDesigner.pdb
+E:\ProjectsDev\BasePlatform\BackEnd\VS2022\ERPWebApi-Dev\ReportDesigner\obj\Debug\net6.0\ReportDesigner.csproj.AssemblyReference.cache
+E:\ProjectsDev\BasePlatform\BackEnd\VS2022\ERPWebApi-Dev\ReportDesigner\obj\Debug\net6.0\ReportDesigner.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProjectsDev\BasePlatform\BackEnd\VS2022\ERPWebApi-Dev\ReportDesigner\obj\Debug\net6.0\ReportDesigner.AssemblyInfoInputs.cache
+E:\ProjectsDev\BasePlatform\BackEnd\VS2022\ERPWebApi-Dev\ReportDesigner\obj\Debug\net6.0\ReportDesigner.AssemblyInfo.cs
+E:\ProjectsDev\BasePlatform\BackEnd\VS2022\ERPWebApi-Dev\ReportDesigner\obj\Debug\net6.0\ReportDesigner.csproj.CoreCompileInputs.cache
+E:\ProjectsDev\BasePlatform\BackEnd\VS2022\ERPWebApi-Dev\ReportDesigner\obj\Debug\net6.0\ReportDesigner.dll
+E:\ProjectsDev\BasePlatform\BackEnd\VS2022\ERPWebApi-Dev\ReportDesigner\obj\Debug\net6.0\refint\ReportDesigner.dll
+E:\ProjectsDev\BasePlatform\BackEnd\VS2022\ERPWebApi-Dev\ReportDesigner\obj\Debug\net6.0\ReportDesigner.pdb
+E:\ProjectsDev\BasePlatform\BackEnd\VS2022\ERPWebApi-Dev\ReportDesigner\obj\Debug\net6.0\ref\ReportDesigner.dll
+E:\ProjectsDev\LandManagementSystem\VS2022\ERPWebApi-Dev\ReportDesigner\bin\Debug\net6.0\ReportDesigner.deps.json
+E:\ProjectsDev\LandManagementSystem\VS2022\ERPWebApi-Dev\ReportDesigner\bin\Debug\net6.0\ReportDesigner.dll
+E:\ProjectsDev\LandManagementSystem\VS2022\ERPWebApi-Dev\ReportDesigner\bin\Debug\net6.0\ReportDesigner.pdb
+E:\ProjectsDev\LandManagementSystem\VS2022\ERPWebApi-Dev\ReportDesigner\obj\Debug\net6.0\ReportDesigner.csproj.AssemblyReference.cache
+E:\ProjectsDev\LandManagementSystem\VS2022\ERPWebApi-Dev\ReportDesigner\obj\Debug\net6.0\ReportDesigner.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProjectsDev\LandManagementSystem\VS2022\ERPWebApi-Dev\ReportDesigner\obj\Debug\net6.0\ReportDesigner.AssemblyInfoInputs.cache
+E:\ProjectsDev\LandManagementSystem\VS2022\ERPWebApi-Dev\ReportDesigner\obj\Debug\net6.0\ReportDesigner.AssemblyInfo.cs
+E:\ProjectsDev\LandManagementSystem\VS2022\ERPWebApi-Dev\ReportDesigner\obj\Debug\net6.0\ReportDesigner.csproj.CoreCompileInputs.cache
+E:\ProjectsDev\LandManagementSystem\VS2022\ERPWebApi-Dev\ReportDesigner\obj\Debug\net6.0\ReportDesigner.dll
+E:\ProjectsDev\LandManagementSystem\VS2022\ERPWebApi-Dev\ReportDesigner\obj\Debug\net6.0\refint\ReportDesigner.dll
+E:\ProjectsDev\LandManagementSystem\VS2022\ERPWebApi-Dev\ReportDesigner\obj\Debug\net6.0\ReportDesigner.pdb
+E:\ProjectsDev\LandManagementSystem\VS2022\ERPWebApi-Dev\ReportDesigner\obj\Debug\net6.0\ref\ReportDesigner.dll
+E:\Project-2\New Project\LMS\VS2022\VS2022\ERPWebApi-Dev\ReportDesigner\bin\Debug\net6.0\ReportDesigner.deps.json
+E:\Project-2\New Project\LMS\VS2022\VS2022\ERPWebApi-Dev\ReportDesigner\bin\Debug\net6.0\ReportDesigner.dll
+E:\Project-2\New Project\LMS\VS2022\VS2022\ERPWebApi-Dev\ReportDesigner\bin\Debug\net6.0\ReportDesigner.pdb
+E:\Project-2\New Project\LMS\VS2022\VS2022\ERPWebApi-Dev\ReportDesigner\obj\Debug\net6.0\ReportDesigner.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project-2\New Project\LMS\VS2022\VS2022\ERPWebApi-Dev\ReportDesigner\obj\Debug\net6.0\ReportDesigner.AssemblyInfoInputs.cache
+E:\Project-2\New Project\LMS\VS2022\VS2022\ERPWebApi-Dev\ReportDesigner\obj\Debug\net6.0\ReportDesigner.AssemblyInfo.cs
+E:\Project-2\New Project\LMS\VS2022\VS2022\ERPWebApi-Dev\ReportDesigner\obj\Debug\net6.0\ReportDesigner.csproj.CoreCompileInputs.cache
+E:\Project-2\New Project\LMS\VS2022\VS2022\ERPWebApi-Dev\ReportDesigner\obj\Debug\net6.0\ReportDesigner.dll
+E:\Project-2\New Project\LMS\VS2022\VS2022\ERPWebApi-Dev\ReportDesigner\obj\Debug\net6.0\refint\ReportDesigner.dll
+E:\Project-2\New Project\LMS\VS2022\VS2022\ERPWebApi-Dev\ReportDesigner\obj\Debug\net6.0\ReportDesigner.pdb
+E:\Project-2\New Project\LMS\VS2022\VS2022\ERPWebApi-Dev\ReportDesigner\obj\Debug\net6.0\ref\ReportDesigner.dll

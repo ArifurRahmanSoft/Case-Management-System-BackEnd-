@@ -1,0 +1,64 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+    <header>
+        <div style="text-align:center">
+            <i aria-hidden="true"></i>
+            <h3 style="color: #131212;">
+                &nbsp;&nbsp;&nbsp;&nbsp;Payment History
+                <span style="color: #131212;">&nbsp;&nbsp;&nbsp; #startDate# To #endDate# </span>
+            </h3>
+        </div>
+    </header>
+    <div id="PaymentHistoryData" *ngIf="isGenerateData">
+        
+        <table class="table1" style="border-collapse:collapse;border-spacing:10px;border:1px solid black;" width="100%" cellpadding="10" cellspacing="10">
+            <thead>
+                <tr>
+                    <th style="border:1px solid black;color:#131212;text-align:left">Sl.</th>
+                    <th style="border:1px solid black;color:#131212;text-align:left">Client</th>
+                    <th style="border:1px solid black;color:#131212;text-align:left">Client ID</th>
+                    <th style="border:1px solid black;color:#131212;text-align:left">Pack Service</th>
+                    <th style="border:1px solid black;color:#131212;text-align:left">Parent Pack Service</th>
+                    <th style="border:1px solid black;color:#131212;text-align:left">Invoice No.</th>
+                    <th style="border:1px solid black;color:#131212;text-align:left;text-align:right">Amount</th>
+                    <th style="border:1px solid black;color:#131212;text-align:left">Particulars</th>
+                    <th style="border:1px solid black;color:#131212;text-align:left">Payment Date</th>
+                    <th style="border:1px solid black;color:#131212;text-align:left">Payment Method</th>
+                </tr>
+            </thead>
+            <tbody>
+                <!--<tr style="border: 1px solid black;" *ngFor="let item of listPaymentHistory;let sl = index">
+            <td style="border:1px solid black;color:#131212" align="center">{{sl+1}}</td>
+            <td style="border:1px solid black;color:#131212">{{item.CustomerName}}</td>
+            <td style="border:1px solid black;color:#131212">{{item.InvoiceNo}}</td>
+            <td style="border:1px solid black;color:#131212">{{item.PackServiceName}}</td>
+            <td style="border:1px solid black;color:#131212">{{item.ParentPackServiceName}}</td>
+            <td style="border:1px solid black;color:#131212">{{item.Particulars}}</td>
+            <td style="border:1px solid black;color:#131212">{{ item.PaymentDate | date:'short'}}</td>
+            <td style="border:1px solid black;color:#131212">{{item.PaymentMethod}}</td>
+        </tr>-->
+                #TRs#
+            </tbody>
+            <tfoot class="text-c-green">
+                <tr>
+                    <th></th>
+                    <th></th>
+                    <th></th>
+                    <th></th>
+                    <th></th>
+                    <th></th>
+                    <th style="text-align:right">#TotalPaidAmount#</th>
+                    <th></th>
+                    <th></th>
+                    <th></th>
+                </tr>
+            </tfoot>
+        </table>
+    </div>
+</body>
+</html>

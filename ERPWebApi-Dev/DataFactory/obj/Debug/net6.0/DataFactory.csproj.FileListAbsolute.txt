@@ -1,0 +1,68 @@
+E:\ProjectsDev\BasePlatform\VS2022\BackEnd\ERPWebApi-Dev\DataFactory\bin\Debug\net6.0\DataFactory.deps.json
+E:\ProjectsDev\BasePlatform\VS2022\BackEnd\ERPWebApi-Dev\DataFactory\bin\Debug\net6.0\DataFactory.dll
+E:\ProjectsDev\BasePlatform\VS2022\BackEnd\ERPWebApi-Dev\DataFactory\bin\Debug\net6.0\DataFactory.pdb
+E:\ProjectsDev\BasePlatform\VS2022\BackEnd\ERPWebApi-Dev\DataFactory\bin\Debug\net6.0\DataModels.dll
+E:\ProjectsDev\BasePlatform\VS2022\BackEnd\ERPWebApi-Dev\DataFactory\bin\Debug\net6.0\DataUtilities.dll
+E:\ProjectsDev\BasePlatform\VS2022\BackEnd\ERPWebApi-Dev\DataFactory\bin\Debug\net6.0\DataUtilities.pdb
+E:\ProjectsDev\BasePlatform\VS2022\BackEnd\ERPWebApi-Dev\DataFactory\bin\Debug\net6.0\DataModels.pdb
+E:\ProjectsDev\BasePlatform\VS2022\BackEnd\ERPWebApi-Dev\DataFactory\obj\Debug\net6.0\DataFactory.csproj.AssemblyReference.cache
+E:\ProjectsDev\BasePlatform\VS2022\BackEnd\ERPWebApi-Dev\DataFactory\obj\Debug\net6.0\DataFactory.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProjectsDev\BasePlatform\VS2022\BackEnd\ERPWebApi-Dev\DataFactory\obj\Debug\net6.0\DataFactory.AssemblyInfoInputs.cache
+E:\ProjectsDev\BasePlatform\VS2022\BackEnd\ERPWebApi-Dev\DataFactory\obj\Debug\net6.0\DataFactory.AssemblyInfo.cs
+E:\ProjectsDev\BasePlatform\VS2022\BackEnd\ERPWebApi-Dev\DataFactory\obj\Debug\net6.0\DataFactory.csproj.CoreCompileInputs.cache
+E:\ProjectsDev\BasePlatform\VS2022\BackEnd\ERPWebApi-Dev\DataFactory\obj\Debug\net6.0\DataFactory.csproj.CopyComplete
+E:\ProjectsDev\BasePlatform\VS2022\BackEnd\ERPWebApi-Dev\DataFactory\obj\Debug\net6.0\DataFactory.dll
+E:\ProjectsDev\BasePlatform\VS2022\BackEnd\ERPWebApi-Dev\DataFactory\obj\Debug\net6.0\refint\DataFactory.dll
+E:\ProjectsDev\BasePlatform\VS2022\BackEnd\ERPWebApi-Dev\DataFactory\obj\Debug\net6.0\DataFactory.pdb
+E:\ProjectsDev\BasePlatform\VS2022\BackEnd\ERPWebApi-Dev\DataFactory\obj\Debug\net6.0\ref\DataFactory.dll
+E:\ProjectsDev\BasePlatform\BackEnd\VS2022\ERPWebApi-Dev\DataFactory\bin\Debug\net6.0\DataFactory.deps.json
+E:\ProjectsDev\BasePlatform\BackEnd\VS2022\ERPWebApi-Dev\DataFactory\bin\Debug\net6.0\DataFactory.dll
+E:\ProjectsDev\BasePlatform\BackEnd\VS2022\ERPWebApi-Dev\DataFactory\bin\Debug\net6.0\DataFactory.pdb
+E:\ProjectsDev\BasePlatform\BackEnd\VS2022\ERPWebApi-Dev\DataFactory\bin\Debug\net6.0\DataModels.dll
+E:\ProjectsDev\BasePlatform\BackEnd\VS2022\ERPWebApi-Dev\DataFactory\bin\Debug\net6.0\DataUtilities.dll
+E:\ProjectsDev\BasePlatform\BackEnd\VS2022\ERPWebApi-Dev\DataFactory\bin\Debug\net6.0\DataUtilities.pdb
+E:\ProjectsDev\BasePlatform\BackEnd\VS2022\ERPWebApi-Dev\DataFactory\bin\Debug\net6.0\DataModels.pdb
+E:\ProjectsDev\BasePlatform\BackEnd\VS2022\ERPWebApi-Dev\DataFactory\obj\Debug\net6.0\DataFactory.csproj.AssemblyReference.cache
+E:\ProjectsDev\BasePlatform\BackEnd\VS2022\ERPWebApi-Dev\DataFactory\obj\Debug\net6.0\DataFactory.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProjectsDev\BasePlatform\BackEnd\VS2022\ERPWebApi-Dev\DataFactory\obj\Debug\net6.0\DataFactory.AssemblyInfoInputs.cache
+E:\ProjectsDev\BasePlatform\BackEnd\VS2022\ERPWebApi-Dev\DataFactory\obj\Debug\net6.0\DataFactory.AssemblyInfo.cs
+E:\ProjectsDev\BasePlatform\BackEnd\VS2022\ERPWebApi-Dev\DataFactory\obj\Debug\net6.0\DataFactory.csproj.CoreCompileInputs.cache
+E:\ProjectsDev\BasePlatform\BackEnd\VS2022\ERPWebApi-Dev\DataFactory\obj\Debug\net6.0\DataFactory.csproj.CopyComplete
+E:\ProjectsDev\BasePlatform\BackEnd\VS2022\ERPWebApi-Dev\DataFactory\obj\Debug\net6.0\DataFactory.dll
+E:\ProjectsDev\BasePlatform\BackEnd\VS2022\ERPWebApi-Dev\DataFactory\obj\Debug\net6.0\refint\DataFactory.dll
+E:\ProjectsDev\BasePlatform\BackEnd\VS2022\ERPWebApi-Dev\DataFactory\obj\Debug\net6.0\DataFactory.pdb
+E:\ProjectsDev\BasePlatform\BackEnd\VS2022\ERPWebApi-Dev\DataFactory\obj\Debug\net6.0\ref\DataFactory.dll
+E:\ProjectsDev\LandManagementSystem\VS2022\ERPWebApi-Dev\DataFactory\bin\Debug\net6.0\DataFactory.deps.json
+E:\ProjectsDev\LandManagementSystem\VS2022\ERPWebApi-Dev\DataFactory\bin\Debug\net6.0\DataFactory.dll
+E:\ProjectsDev\LandManagementSystem\VS2022\ERPWebApi-Dev\DataFactory\bin\Debug\net6.0\DataFactory.pdb
+E:\ProjectsDev\LandManagementSystem\VS2022\ERPWebApi-Dev\DataFactory\bin\Debug\net6.0\DataModels.dll
+E:\ProjectsDev\LandManagementSystem\VS2022\ERPWebApi-Dev\DataFactory\bin\Debug\net6.0\DataUtilities.dll
+E:\ProjectsDev\LandManagementSystem\VS2022\ERPWebApi-Dev\DataFactory\bin\Debug\net6.0\DataUtilities.pdb
+E:\ProjectsDev\LandManagementSystem\VS2022\ERPWebApi-Dev\DataFactory\bin\Debug\net6.0\DataModels.pdb
+E:\ProjectsDev\LandManagementSystem\VS2022\ERPWebApi-Dev\DataFactory\obj\Debug\net6.0\DataFactory.csproj.AssemblyReference.cache
+E:\ProjectsDev\LandManagementSystem\VS2022\ERPWebApi-Dev\DataFactory\obj\Debug\net6.0\DataFactory.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProjectsDev\LandManagementSystem\VS2022\ERPWebApi-Dev\DataFactory\obj\Debug\net6.0\DataFactory.AssemblyInfoInputs.cache
+E:\ProjectsDev\LandManagementSystem\VS2022\ERPWebApi-Dev\DataFactory\obj\Debug\net6.0\DataFactory.AssemblyInfo.cs
+E:\ProjectsDev\LandManagementSystem\VS2022\ERPWebApi-Dev\DataFactory\obj\Debug\net6.0\DataFactory.csproj.CoreCompileInputs.cache
+E:\ProjectsDev\LandManagementSystem\VS2022\ERPWebApi-Dev\DataFactory\obj\Debug\net6.0\DataFactory.dll
+E:\ProjectsDev\LandManagementSystem\VS2022\ERPWebApi-Dev\DataFactory\obj\Debug\net6.0\refint\DataFactory.dll
+E:\ProjectsDev\LandManagementSystem\VS2022\ERPWebApi-Dev\DataFactory\obj\Debug\net6.0\DataFactory.pdb
+E:\ProjectsDev\LandManagementSystem\VS2022\ERPWebApi-Dev\DataFactory\obj\Debug\net6.0\ref\DataFactory.dll
+E:\ProjectsDev\LandManagementSystem\VS2022\ERPWebApi-Dev\DataFactory\obj\Debug\net6.0\DataFact.3D83D21E.Up2Date
+E:\Project-2\New Project\LMS\VS2022\VS2022\ERPWebApi-Dev\DataFactory\bin\Debug\net6.0\DataFactory.deps.json
+E:\Project-2\New Project\LMS\VS2022\VS2022\ERPWebApi-Dev\DataFactory\bin\Debug\net6.0\DataFactory.dll
+E:\Project-2\New Project\LMS\VS2022\VS2022\ERPWebApi-Dev\DataFactory\bin\Debug\net6.0\DataFactory.pdb
+E:\Project-2\New Project\LMS\VS2022\VS2022\ERPWebApi-Dev\DataFactory\bin\Debug\net6.0\DataModels.dll
+E:\Project-2\New Project\LMS\VS2022\VS2022\ERPWebApi-Dev\DataFactory\bin\Debug\net6.0\DataUtilities.dll
+E:\Project-2\New Project\LMS\VS2022\VS2022\ERPWebApi-Dev\DataFactory\bin\Debug\net6.0\DataUtilities.pdb
+E:\Project-2\New Project\LMS\VS2022\VS2022\ERPWebApi-Dev\DataFactory\bin\Debug\net6.0\DataModels.pdb
+E:\Project-2\New Project\LMS\VS2022\VS2022\ERPWebApi-Dev\DataFactory\obj\Debug\net6.0\DataFactory.csproj.AssemblyReference.cache
+E:\Project-2\New Project\LMS\VS2022\VS2022\ERPWebApi-Dev\DataFactory\obj\Debug\net6.0\DataFactory.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project-2\New Project\LMS\VS2022\VS2022\ERPWebApi-Dev\DataFactory\obj\Debug\net6.0\DataFactory.AssemblyInfoInputs.cache
+E:\Project-2\New Project\LMS\VS2022\VS2022\ERPWebApi-Dev\DataFactory\obj\Debug\net6.0\DataFactory.AssemblyInfo.cs
+E:\Project-2\New Project\LMS\VS2022\VS2022\ERPWebApi-Dev\DataFactory\obj\Debug\net6.0\DataFactory.csproj.CoreCompileInputs.cache
+E:\Project-2\New Project\LMS\VS2022\VS2022\ERPWebApi-Dev\DataFactory\obj\Debug\net6.0\DataFact.3D83D21E.Up2Date
+E:\Project-2\New Project\LMS\VS2022\VS2022\ERPWebApi-Dev\DataFactory\obj\Debug\net6.0\DataFactory.dll
+E:\Project-2\New Project\LMS\VS2022\VS2022\ERPWebApi-Dev\DataFactory\obj\Debug\net6.0\refint\DataFactory.dll
+E:\Project-2\New Project\LMS\VS2022\VS2022\ERPWebApi-Dev\DataFactory\obj\Debug\net6.0\DataFactory.pdb
+E:\Project-2\New Project\LMS\VS2022\VS2022\ERPWebApi-Dev\DataFactory\obj\Debug\net6.0\ref\DataFactory.dll

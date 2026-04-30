@@ -1,0 +1,1783 @@
+[
+  {
+    "ContainingType": "CTG_ERPWebApi.api.account.authentication.authController",
+    "Method": "GetClinetDt",
+    "RelativePath": "api/auth/GetClinetDt",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "timezoneOffset",
+        "Type": "System.Double",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.account.authentication.authController",
+    "Method": "getstaticinfos",
+    "RelativePath": "api/auth/getstaticinfos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.account.authentication.authController",
+    "Method": "SetClinetDt",
+    "RelativePath": "api/auth/SetClinetDt",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "timezoneOffset",
+        "Type": "System.Double",
+        "IsRequired": false
+      },
+      {
+        "Name": "datetime",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.business.configuration.DeedController",
+    "Method": "delete",
+    "RelativePath": "api/Deed/delete",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.business.configuration.DeedController",
+    "Method": "getbyid",
+    "RelativePath": "api/Deed/getbyid",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.business.configuration.DeedController",
+    "Method": "getbyidforsetlocation",
+    "RelativePath": "api/Deed/getbyidforsetlocation",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.business.configuration.DeedController",
+    "Method": "getbypage",
+    "RelativePath": "api/Deed/getbypage",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.business.configuration.DeedController",
+    "Method": "getdeedmodelbyid",
+    "RelativePath": "api/Deed/getdeedmodelbyid",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.business.configuration.DeedController",
+    "Method": "InsertJsonData",
+    "RelativePath": "api/Deed/InsertJsonData",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "System.Object[]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.business.configuration.DeedController",
+    "Method": "saveupdateform",
+    "RelativePath": "api/Deed/saveupdateform",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.business.configuration.DeedController",
+    "Method": "saveupdateforms",
+    "RelativePath": "api/Deed/saveupdateforms",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.business.configuration.DeedController",
+    "Method": "setdeedlocation",
+    "RelativePath": "api/Deed/setdeedlocation",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "System.Object[]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.business.configuration.deedreportController",
+    "Method": "getbypage",
+    "RelativePath": "api/deedreport/getbypage",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.business.configuration.deedreportController",
+    "Method": "getdeedreport",
+    "RelativePath": "api/deedreport/getdeedreport",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "System.Object[]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.business.docuploadController",
+    "Method": "delete",
+    "RelativePath": "api/docupload/delete",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.business.docuploadController",
+    "Method": "getbyid",
+    "RelativePath": "api/docupload/getbyid",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.business.docuploadController",
+    "Method": "getbypage",
+    "RelativePath": "api/docupload/getbypage",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.business.docuploadController",
+    "Method": "saveupdatedform",
+    "RelativePath": "api/docupload/saveupdatedform",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.business.docuploadController",
+    "Method": "saveupdateform",
+    "RelativePath": "api/docupload/saveupdateform",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.common.dropdown.dropdownController",
+    "Method": "getallcompanyuser",
+    "RelativePath": "api/dropdown/getallcompanyuser",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.common.dropdown.dropdownController",
+    "Method": "getalldistrict",
+    "RelativePath": "api/dropdown/getalldistrict",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.common.dropdown.dropdownController",
+    "Method": "getalldistrictsrc",
+    "RelativePath": "api/dropdown/getalldistrictsrc",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.common.dropdown.dropdownController",
+    "Method": "getalldivision",
+    "RelativePath": "api/dropdown/getalldivision",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.common.dropdown.dropdownController",
+    "Method": "getalllandcategories",
+    "RelativePath": "api/dropdown/getalllandcategories",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.common.dropdown.dropdownController",
+    "Method": "getalllandclass",
+    "RelativePath": "api/dropdown/getalllandclass",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.common.dropdown.dropdownController",
+    "Method": "getalllanddeed",
+    "RelativePath": "api/dropdown/getalllanddeed",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.common.dropdown.dropdownController",
+    "Method": "getalllandproject",
+    "RelativePath": "api/dropdown/getalllandproject",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.common.dropdown.dropdownController",
+    "Method": "getalllandsubcategories",
+    "RelativePath": "api/dropdown/getalllandsubcategories",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.common.dropdown.dropdownController",
+    "Method": "getallmouza",
+    "RelativePath": "api/dropdown/getallmouza",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.common.dropdown.dropdownController",
+    "Method": "getallowner",
+    "RelativePath": "api/dropdown/getallowner",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.common.dropdown.dropdownController",
+    "Method": "getallownersrc",
+    "RelativePath": "api/dropdown/getallownersrc",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.common.dropdown.dropdownController",
+    "Method": "getallrole",
+    "RelativePath": "api/dropdown/getallrole",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.common.dropdown.dropdownController",
+    "Method": "getallseller",
+    "RelativePath": "api/dropdown/getallseller",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.common.dropdown.dropdownController",
+    "Method": "getallsellers",
+    "RelativePath": "api/dropdown/getallsellers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.common.dropdown.dropdownController",
+    "Method": "getallsellersrc",
+    "RelativePath": "api/dropdown/getallsellersrc",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.common.dropdown.dropdownController",
+    "Method": "getallservey",
+    "RelativePath": "api/dropdown/getallservey",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.common.dropdown.dropdownController",
+    "Method": "getalluploadtype",
+    "RelativePath": "api/dropdown/getalluploadtype",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.common.dropdown.dropdownController",
+    "Method": "getalluserbycompany",
+    "RelativePath": "api/dropdown/getalluserbycompany",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.common.dropdown.dropdownController",
+    "Method": "getcompanylist",
+    "RelativePath": "api/dropdown/getcompanylist",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.common.dropdown.dropdownController",
+    "Method": "getdistrictbyid",
+    "RelativePath": "api/dropdown/getdistrictbyid",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.common.dropdown.dropdownController",
+    "Method": "getlandofficebyid",
+    "RelativePath": "api/dropdown/getlandofficebyid",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.common.dropdown.dropdownController",
+    "Method": "getmouzabyid",
+    "RelativePath": "api/dropdown/getmouzabyid",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.common.dropdown.dropdownController",
+    "Method": "getmouzabyidsrc",
+    "RelativePath": "api/dropdown/getmouzabyidsrc",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.common.dropdown.dropdownController",
+    "Method": "getregistryofficebyid",
+    "RelativePath": "api/dropdown/getregistryofficebyid",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.common.dropdown.dropdownController",
+    "Method": "getthanabyid",
+    "RelativePath": "api/dropdown/getthanabyid",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.common.dropdown.dropdownController",
+    "Method": "getthanabyidsrc",
+    "RelativePath": "api/dropdown/getthanabyidsrc",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.business.configuration.khajnaController",
+    "Method": "delete",
+    "RelativePath": "api/khajna/delete",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.business.configuration.khajnaController",
+    "Method": "getbyid",
+    "RelativePath": "api/khajna/getbyid",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.business.configuration.khajnaController",
+    "Method": "getbypage",
+    "RelativePath": "api/khajna/getbypage",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.business.configuration.khajnaController",
+    "Method": "getduenewkhajnacount",
+    "RelativePath": "api/khajna/getduenewkhajnacount",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.business.configuration.khajnaController",
+    "Method": "getkhajnalistbymutationid",
+    "RelativePath": "api/khajna/getkhajnalistbymutationid",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.business.configuration.khajnaController",
+    "Method": "saveupdateform",
+    "RelativePath": "api/khajna/saveupdateform",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.business.landOfficeSetupController",
+    "Method": "delete",
+    "RelativePath": "api/landOfficeSetup/delete",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.business.landOfficeSetupController",
+    "Method": "getbyid",
+    "RelativePath": "api/landOfficeSetup/getbyid",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.business.landOfficeSetupController",
+    "Method": "getbypage",
+    "RelativePath": "api/landOfficeSetup/getbypage",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.business.landOfficeSetupController",
+    "Method": "saveupdate",
+    "RelativePath": "api/landOfficeSetup/saveupdate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "System.Object[]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.common.menus.menuController",
+    "Method": "checkmenuifexist",
+    "RelativePath": "api/menu/checkmenuifexist",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.common.menus.menuController",
+    "Method": "delete",
+    "RelativePath": "api/menu/delete",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.common.menus.menuController",
+    "Method": "getbyid",
+    "RelativePath": "api/menu/getbyid",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.common.menus.menuController",
+    "Method": "getmenu",
+    "RelativePath": "api/menu/getmenu",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.common.menus.menuController",
+    "Method": "getoramenubyrole",
+    "RelativePath": "api/menu/getoramenubyrole",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.common.menus.menuController",
+    "Method": "getparentmenu",
+    "RelativePath": "api/menu/getparentmenu",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.common.menus.menuController",
+    "Method": "getsubparentmenu",
+    "RelativePath": "api/menu/getsubparentmenu",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.common.menus.menuController",
+    "Method": "saveupdate",
+    "RelativePath": "api/menu/saveupdate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "System.Object[]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.common.menus.menuController",
+    "Method": "saveupdatepermission",
+    "RelativePath": "api/menu/saveupdatepermission",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "System.Object[]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.business.mouzaSetupController",
+    "Method": "delete",
+    "RelativePath": "api/mouzaSetup/delete",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.business.mouzaSetupController",
+    "Method": "getbyid",
+    "RelativePath": "api/mouzaSetup/getbyid",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.business.mouzaSetupController",
+    "Method": "getbypage",
+    "RelativePath": "api/mouzaSetup/getbypage",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.business.mouzaSetupController",
+    "Method": "saveupdateform",
+    "RelativePath": "api/mouzaSetup/saveupdateform",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.business.configuration.mutationController",
+    "Method": "delete",
+    "RelativePath": "api/mutation/delete",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.business.configuration.mutationController",
+    "Method": "getbyid",
+    "RelativePath": "api/mutation/getbyid",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.business.configuration.mutationController",
+    "Method": "getbypage",
+    "RelativePath": "api/mutation/getbypage",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.business.configuration.mutationController",
+    "Method": "getdeedmodelbyid",
+    "RelativePath": "api/mutation/getdeedmodelbyid",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.business.configuration.mutationController",
+    "Method": "saveupdateform",
+    "RelativePath": "api/mutation/saveupdateform",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.business.ownerSetupController",
+    "Method": "delete",
+    "RelativePath": "api/ownerSetup/delete",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.business.ownerSetupController",
+    "Method": "getbyid",
+    "RelativePath": "api/ownerSetup/getbyid",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.business.ownerSetupController",
+    "Method": "getbypage",
+    "RelativePath": "api/ownerSetup/getbypage",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.business.ownerSetupController",
+    "Method": "saveupdate",
+    "RelativePath": "api/ownerSetup/saveupdate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "System.Object[]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.business.registryOfficeSetupController",
+    "Method": "delete",
+    "RelativePath": "api/registryOfficeSetup/delete",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.business.registryOfficeSetupController",
+    "Method": "getbyid",
+    "RelativePath": "api/registryOfficeSetup/getbyid",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.business.registryOfficeSetupController",
+    "Method": "getbypage",
+    "RelativePath": "api/registryOfficeSetup/getbypage",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.business.registryOfficeSetupController",
+    "Method": "saveupdate",
+    "RelativePath": "api/registryOfficeSetup/saveupdate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "System.Object[]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.reporting.reportviewer.reportviewerController",
+    "Method": "getdeedreportbyid",
+    "RelativePath": "api/reportviewer/getdeedreportbyid",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "System.Object[]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.reporting.reportviewer.reportviewerController",
+    "Method": "gettestreport",
+    "RelativePath": "api/reportviewer/gettestreport",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "System.Object[]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.common.roles.roleController",
+    "Method": "delete",
+    "RelativePath": "api/role/delete",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.common.roles.roleController",
+    "Method": "getbyid",
+    "RelativePath": "api/role/getbyid",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.common.roles.roleController",
+    "Method": "getbypage",
+    "RelativePath": "api/role/getbypage",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.common.roles.roleController",
+    "Method": "saveupdate",
+    "RelativePath": "api/role/saveupdate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "System.Object[]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.business.sellerSetupController",
+    "Method": "delete",
+    "RelativePath": "api/sellerSetup/delete",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.business.sellerSetupController",
+    "Method": "getbyid",
+    "RelativePath": "api/sellerSetup/getbyid",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.business.sellerSetupController",
+    "Method": "getbypage",
+    "RelativePath": "api/sellerSetup/getbypage",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.business.sellerSetupController",
+    "Method": "saveupdate",
+    "RelativePath": "api/sellerSetup/saveupdate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "System.Object[]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.business.thanaSetupController",
+    "Method": "delete",
+    "RelativePath": "api/thanaSetup/delete",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.business.thanaSetupController",
+    "Method": "getbyid",
+    "RelativePath": "api/thanaSetup/getbyid",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.business.thanaSetupController",
+    "Method": "getbypage",
+    "RelativePath": "api/thanaSetup/getbypage",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.business.thanaSetupController",
+    "Method": "saveupdate",
+    "RelativePath": "api/thanaSetup/saveupdate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "System.Object[]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.business.uploadtypeController",
+    "Method": "delete",
+    "RelativePath": "api/uploadtype/delete",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.business.uploadtypeController",
+    "Method": "getbyid",
+    "RelativePath": "api/uploadtype/getbyid",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.business.uploadtypeController",
+    "Method": "getbypage",
+    "RelativePath": "api/uploadtype/getbypage",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.business.uploadtypeController",
+    "Method": "saveupdate",
+    "RelativePath": "api/uploadtype/saveupdate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "System.Object[]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.business.configuration.userDashboardController",
+    "Method": "getallentryuseractivity",
+    "RelativePath": "api/userDashboard/getallentryuseractivity",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.business.configuration.userDashboardController",
+    "Method": "getallentryuserbytable",
+    "RelativePath": "api/userDashboard/getallentryuserbytable",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.common.userroles.userRoleController",
+    "Method": "delete",
+    "RelativePath": "api/userRole/delete",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.common.userroles.userRoleController",
+    "Method": "getbyid",
+    "RelativePath": "api/userRole/getbyid",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.common.userroles.userRoleController",
+    "Method": "getbypage",
+    "RelativePath": "api/userRole/getbypage",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.common.userroles.userRoleController",
+    "Method": "saveupdate",
+    "RelativePath": "api/userRole/saveupdate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "System.Object[]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.common.user.usersController",
+    "Method": "getbyid",
+    "RelativePath": "api/users/getbyid",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.common.user.usersController",
+    "Method": "getbypage",
+    "RelativePath": "api/users/getbypage",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.common.user.usersController",
+    "Method": "getemployeedetailbyid",
+    "RelativePath": "api/users/getemployeedetailbyid",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.common.user.usersController",
+    "Method": "getorauser",
+    "RelativePath": "api/users/getorauser",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.common.user.usersController",
+    "Method": "loggeduserdetails",
+    "RelativePath": "api/users/loggeduserdetails",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.common.user.usersController",
+    "Method": "login",
+    "RelativePath": "api/users/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "System.Object[]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.common.user.usersController",
+    "Method": "saveupdate",
+    "RelativePath": "api/users/saveupdate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "System.Object[]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CTG_ERPWebApi.api.common.user.usersController",
+    "Method": "updatepassword",
+    "RelativePath": "api/users/updatepassword",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "System.Object[]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
