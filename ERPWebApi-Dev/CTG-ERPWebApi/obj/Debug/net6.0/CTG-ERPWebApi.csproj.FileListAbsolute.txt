@@ -1334,3 +1334,4 @@ E:\Project-2\New Project\LMS\VS2022\VS2022\ERPWebApi-Dev\CTG-ERPWebApi\obj\Debug
 E:\Project-2\New Project\LMS\VS2022\VS2022\ERPWebApi-Dev\CTG-ERPWebApi\obj\Debug\net6.0\CTG-ERPWebApi.pdb
 E:\Project-2\New Project\LMS\VS2022\VS2022\ERPWebApi-Dev\CTG-ERPWebApi\obj\Debug\net6.0\CTG-ERPWebApi.genruntimeconfig.cache
 E:\Project-2\New Project\LMS\VS2022\VS2022\ERPWebApi-Dev\CTG-ERPWebApi\obj\Debug\net6.0\ref\CTG-ERPWebApi.dll
+E:\Project-2\New Project\LMS\VS2022\VS2022\ERPWebApi-Dev\CTG-ERPWebApi\obj\Debug\net6.0\CTG-ERPWebApi.sourcelink.json

@@ -696,6 +696,9 @@
 
         public const string SpGet_Dashbord = "CASESETUP.Get_CaseDashbord";
 
+        public const string SpGet_DashbordByDistThnaMouza = "CASESETUP.Get_DashbordByDistThnaMouza";
+        public const string SpGet_DeedDashbord = "CASESETUP.Get_LandDashbordByDeed";
+
         #endregion Case Setup
 
 

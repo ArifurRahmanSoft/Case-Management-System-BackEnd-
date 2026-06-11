@@ -291,6 +291,7 @@ namespace DataModels.ViewModels
         public string strId4 { get; set; }
 
         public string strId5 { get; set; }
+        public string strId6 { get; set; }
         public int? pageNumber { get; set; }
         public int? pageSize { get; set; }
         public bool IsPaging { get; set; }

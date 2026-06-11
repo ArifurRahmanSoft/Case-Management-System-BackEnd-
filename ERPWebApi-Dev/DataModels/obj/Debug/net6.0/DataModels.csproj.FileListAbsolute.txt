@@ -48,3 +48,4 @@ E:\Project-2\New Project\LMS\VS2022\VS2022\ERPWebApi-Dev\DataModels\obj\Debug\ne
 E:\Project-2\New Project\LMS\VS2022\VS2022\ERPWebApi-Dev\DataModels\obj\Debug\net6.0\refint\DataModels.dll
 E:\Project-2\New Project\LMS\VS2022\VS2022\ERPWebApi-Dev\DataModels\obj\Debug\net6.0\DataModels.pdb
 E:\Project-2\New Project\LMS\VS2022\VS2022\ERPWebApi-Dev\DataModels\obj\Debug\net6.0\ref\DataModels.dll
+E:\Project-2\New Project\LMS\VS2022\VS2022\ERPWebApi-Dev\DataModels\obj\Debug\net6.0\DataModels.sourcelink.json

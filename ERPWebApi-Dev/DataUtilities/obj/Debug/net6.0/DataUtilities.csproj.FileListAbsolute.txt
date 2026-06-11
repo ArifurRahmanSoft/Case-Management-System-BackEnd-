@@ -58,3 +58,4 @@ E:\Project-2\New Project\LMS\VS2022\VS2022\ERPWebApi-Dev\DataUtilities\obj\Debug
 E:\Project-2\New Project\LMS\VS2022\VS2022\ERPWebApi-Dev\DataUtilities\obj\Debug\net6.0\refint\DataUtilities.dll
 E:\Project-2\New Project\LMS\VS2022\VS2022\ERPWebApi-Dev\DataUtilities\obj\Debug\net6.0\DataUtilities.pdb
 E:\Project-2\New Project\LMS\VS2022\VS2022\ERPWebApi-Dev\DataUtilities\obj\Debug\net6.0\ref\DataUtilities.dll
+E:\Project-2\New Project\LMS\VS2022\VS2022\ERPWebApi-Dev\DataUtilities\obj\Debug\net6.0\DataUtilities.sourcelink.json

@@ -118,7 +118,14 @@ namespace DataFactory.Infrastructure.business.operation
                     { "gresult", (0, OracleDbType.RefCursor, ParameterDirection.Output) },
                     { "PageNumber", (1, Convert.ToDecimal(param.pageNumber))},
                     { "PageSize", (2, Convert.ToDecimal(param.pageSize)) },
-                    { "SearchValue", (3, param.SearchVal) }
+                    { "SearchValue", (3, param.SearchVal) },
+                    { "District", (4, param.strId) },
+                    { "Thana", (5, param.strId2) },
+                    { "Mouza", (6, param.strId3) },
+                    { "Court", (7, param.strId4) },
+                    { "caseCstatus", (8, param.strId5) },
+                    { "CasePriority", (9, param.strId6) }
+
                 };
 
                 listCase = await Ora_Generic_vmCmnParameter.ExecuteCommandString(StoredProcedure.SpGet_CaseListByPage, ht, StaticInfos.conStringOracle.ToString());
@@ -763,12 +770,67 @@ namespace DataFactory.Infrastructure.business.operation
         }
 
 
- 
+
+
+        public async Task<object> GetDashbordByDistThnaMouza()
+        {
+            string refr = string.Empty; object caseList = null;
+            Ora_Generic_vmCmnParameter = new GenericFactoryOracle<vmCmnParameter>();
+            try
+            {
+                ocmd = new OracleCommand();
+                ocmd.Parameters.Add("gresult", OracleDbType.RefCursor).Direction = ParameterDirection.Output;
+                caseList = await Ora_Generic_vmCmnParameter.ExecuteDataTableToJSON(StoredProcedure.SpGet_DashbordByDistThnaMouza, ocmd, StaticInfos.conStringOracle.ToString());
+
+
+
+            }
+            catch (Exception ex)
+            {
+                Logs.Bug(ex);
+            }
+
+            return new
+            {
+
+                caseList
+            };
+        }
+        
+
+
+        public async Task<object> GetDeedDashbord()
+        {
+            string refr = string.Empty; object deedDashbordList = null;
+            Ora_Generic_vmCmnParameter = new GenericFactoryOracle<vmCmnParameter>();
+            try
+            {
+                ocmd = new OracleCommand();
+                ocmd.Parameters.Add("gresult", OracleDbType.RefCursor).Direction = ParameterDirection.Output;
+                deedDashbordList = await Ora_Generic_vmCmnParameter.ExecuteDataTableToJSON(StoredProcedure.SpGet_DeedDashbord, ocmd, StaticInfos.conStringOracle.ToString());
+
+
+
+            }
+            catch (Exception ex)
+            {
+                Logs.Bug(ex);
+            }
+
+            return new
+            {
+
+                deedDashbordList
+            };
+        }
 
 
 
 
-   
+
+
+
+
         #endregion
     }
 }

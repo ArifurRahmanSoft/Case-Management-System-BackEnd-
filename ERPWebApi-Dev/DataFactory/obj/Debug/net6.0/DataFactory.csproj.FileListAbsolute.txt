@@ -66,3 +66,4 @@ E:\Project-2\New Project\LMS\VS2022\VS2022\ERPWebApi-Dev\DataFactory\obj\Debug\n
 E:\Project-2\New Project\LMS\VS2022\VS2022\ERPWebApi-Dev\DataFactory\obj\Debug\net6.0\refint\DataFactory.dll
 E:\Project-2\New Project\LMS\VS2022\VS2022\ERPWebApi-Dev\DataFactory\obj\Debug\net6.0\DataFactory.pdb
 E:\Project-2\New Project\LMS\VS2022\VS2022\ERPWebApi-Dev\DataFactory\obj\Debug\net6.0\ref\DataFactory.dll
+E:\Project-2\New Project\LMS\VS2022\VS2022\ERPWebApi-Dev\DataFactory\obj\Debug\net6.0\DataFactory.sourcelink.json

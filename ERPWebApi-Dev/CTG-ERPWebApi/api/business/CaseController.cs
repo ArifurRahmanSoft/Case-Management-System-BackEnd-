@@ -194,9 +194,41 @@ namespace CTG_ERPWebApi.api.business.configuration
             };
         }
 
-  
+        //GetDeedDashbordData
+        // GET: api/case/getcasedashbord
+        [HttpGet("[action]")]//BasicAuthorization
+        public async Task<object> getdashbordbyarea([FromQuery] string param)
+        {
+            object resdata = null;
+            try
+            {
+                resdata = await _manager.GetDashbordByDistThnaMouza();
+            }
+            catch (Exception) { }
+            return new
+            {
+                resdata
+            };
+        }
 
 
+       
+        //GetDeedDashbordData
+        // GET: api/case/getcasedashbord
+        [HttpGet("[action]")]//BasicAuthorization
+        public async Task<object> getdeeddashbord([FromQuery] string param)
+        {
+            object resdata = null;
+            try
+            {
+                resdata = await _manager.GetDeedDashbord();
+            }
+            catch (Exception) { }
+            return new
+            {
+                resdata
+            };
+        }
 
         #endregion
     }
