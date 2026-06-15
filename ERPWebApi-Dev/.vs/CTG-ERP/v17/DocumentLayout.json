@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "E:\\Project-2\\New Project\\LMS\\VS2022\\VS2022\\ERPWebApi-Dev\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B6A28EDB-B8B1-4D28-A228-397B6BC6A8CE}|DataUtilities\\DataUtilities.csproj|e:\\project-2\\new project\\lms\\vs2022\\vs2022\\erpwebapi-dev\\datautilities\\storedprocedure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6A28EDB-B8B1-4D28-A228-397B6BC6A8CE}|DataUtilities\\DataUtilities.csproj|solutionrelative:datautilities\\storedprocedure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED890A53-57BA-4F7E-BC6A-3772160E3738}|DataFactory\\DataFactory.csproj|e:\\project-2\\new project\\lms\\vs2022\\vs2022\\erpwebapi-dev\\datafactory\\infrastructure\\business\\dashboardmgt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED890A53-57BA-4F7E-BC6A-3772160E3738}|DataFactory\\DataFactory.csproj|solutionrelative:datafactory\\infrastructure\\business\\dashboardmgt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EFE7CE4-93E3-4946-8175-FB563BB907F2}|CTG-ERPWebApi\\CTG-ERPWebApi.csproj|e:\\project-2\\new project\\lms\\vs2022\\vs2022\\erpwebapi-dev\\ctg-erpwebapi\\api\\business\\landdashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EFE7CE4-93E3-4946-8175-FB563BB907F2}|CTG-ERPWebApi\\CTG-ERPWebApi.csproj|solutionrelative:ctg-erpwebapi\\api\\business\\landdashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED890A53-57BA-4F7E-BC6A-3772160E3738}|DataFactory\\DataFactory.csproj|e:\\project-2\\new project\\lms\\vs2022\\vs2022\\erpwebapi-dev\\datafactory\\infrastructure\\business\\deedmgt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED890A53-57BA-4F7E-BC6A-3772160E3738}|DataFactory\\DataFactory.csproj|solutionrelative:datafactory\\infrastructure\\business\\deedmgt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{ED890A53-57BA-4F7E-BC6A-3772160E3738}|DataFactory\\DataFactory.csproj|e:\\project-2\\new project\\lms\\vs2022\\vs2022\\erpwebapi-dev\\datafactory\\infrastructure\\business\\casemgt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED890A53-57BA-4F7E-BC6A-3772160E3738}|DataFactory\\DataFactory.csproj|solutionrelative:datafactory\\infrastructure\\business\\casemgt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -38,23 +54,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DeedController.cs",
-              "DocumentMoniker": "E:\\Project-2\\New Project\\LMS\\VS2022\\VS2022\\ERPWebApi-Dev\\CTG-ERPWebApi\\api\\business\\DeedController.cs",
-              "RelativeDocumentMoniker": "CTG-ERPWebApi\\api\\business\\DeedController.cs",
-              "ToolTip": "E:\\Project-2\\New Project\\LMS\\VS2022\\VS2022\\ERPWebApi-Dev\\CTG-ERPWebApi\\api\\business\\DeedController.cs",
-              "RelativeToolTip": "CTG-ERPWebApi\\api\\business\\DeedController.cs",
-              "ViewState": "AQIAAHAAAAAAAAAAAADwvz8AAAAwAAAA",
+              "DocumentIndex": 3,
+              "Title": "DeedMgt.cs",
+              "DocumentMoniker": "E:\\Project-2\\New Project\\LMS\\VS2022\\VS2022\\ERPWebApi-Dev\\DataFactory\\Infrastructure\\business\\DeedMgt.cs",
+              "RelativeDocumentMoniker": "DataFactory\\Infrastructure\\business\\DeedMgt.cs",
+              "ToolTip": "E:\\Project-2\\New Project\\LMS\\VS2022\\VS2022\\ERPWebApi-Dev\\DataFactory\\Infrastructure\\business\\DeedMgt.cs",
+              "RelativeToolTip": "DataFactory\\Infrastructure\\business\\DeedMgt.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-07T11:40:00.765Z"
+              "WhenOpened": "2026-06-14T06:17:36.825Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "StoredProcedure.cs",
+              "DocumentMoniker": "E:\\Project-2\\New Project\\LMS\\VS2022\\VS2022\\ERPWebApi-Dev\\DataUtilities\\StoredProcedure.cs",
+              "RelativeDocumentMoniker": "DataUtilities\\StoredProcedure.cs",
+              "ToolTip": "E:\\Project-2\\New Project\\LMS\\VS2022\\VS2022\\ERPWebApi-Dev\\DataUtilities\\StoredProcedure.cs",
+              "RelativeToolTip": "DataUtilities\\StoredProcedure.cs",
+              "ViewState": "AQIAAKkCAAAAAAAAAAAYwMACAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T06:14:09.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DashboardMgt.cs",
+              "DocumentMoniker": "E:\\Project-2\\New Project\\LMS\\VS2022\\VS2022\\ERPWebApi-Dev\\DataFactory\\Infrastructure\\business\\DashboardMgt.cs",
+              "RelativeDocumentMoniker": "DataFactory\\Infrastructure\\business\\DashboardMgt.cs",
+              "ToolTip": "E:\\Project-2\\New Project\\LMS\\VS2022\\VS2022\\ERPWebApi-Dev\\DataFactory\\Infrastructure\\business\\DashboardMgt.cs",
+              "RelativeToolTip": "DataFactory\\Infrastructure\\business\\DashboardMgt.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAuwCwAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T06:10:24.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LandDashboardController.cs",
+              "DocumentMoniker": "E:\\Project-2\\New Project\\LMS\\VS2022\\VS2022\\ERPWebApi-Dev\\CTG-ERPWebApi\\api\\business\\LandDashboardController.cs",
+              "RelativeDocumentMoniker": "CTG-ERPWebApi\\api\\business\\LandDashboardController.cs",
+              "ToolTip": "E:\\Project-2\\New Project\\LMS\\VS2022\\VS2022\\ERPWebApi-Dev\\CTG-ERPWebApi\\api\\business\\LandDashboardController.cs",
+              "RelativeToolTip": "CTG-ERPWebApi\\api\\business\\LandDashboardController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T06:06:41.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "MutationController.cs",
               "DocumentMoniker": "E:\\Project-2\\New Project\\LMS\\VS2022\\VS2022\\ERPWebApi-Dev\\CTG-ERPWebApi\\api\\business\\MutationController.cs",
               "RelativeDocumentMoniker": "CTG-ERPWebApi\\api\\business\\MutationController.cs",
@@ -66,7 +122,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "KhajnaController.cs",
               "DocumentMoniker": "E:\\Project-2\\New Project\\LMS\\VS2022\\VS2022\\ERPWebApi-Dev\\CTG-ERPWebApi\\api\\business\\KhajnaController.cs",
               "RelativeDocumentMoniker": "CTG-ERPWebApi\\api\\business\\KhajnaController.cs",
@@ -78,7 +134,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "StaticInfos.cs",
               "DocumentMoniker": "E:\\Project-2\\New Project\\LMS\\VS2022\\VS2022\\ERPWebApi-Dev\\DataUtilities\\StaticInfos.cs",
               "RelativeDocumentMoniker": "DataUtilities\\StaticInfos.cs",
@@ -90,7 +146,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "vmCmnParameters.cs",
               "DocumentMoniker": "E:\\Project-2\\New Project\\LMS\\VS2022\\VS2022\\ERPWebApi-Dev\\DataModels\\ViewModels\\ERPViewModel\\Common\\vmCmnParameters.cs",
               "RelativeDocumentMoniker": "DataModels\\ViewModels\\ERPViewModel\\Common\\vmCmnParameters.cs",
@@ -102,29 +158,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "CaseMgt.cs",
               "DocumentMoniker": "E:\\Project-2\\New Project\\LMS\\VS2022\\VS2022\\ERPWebApi-Dev\\DataFactory\\Infrastructure\\business\\CaseMgt.cs",
               "RelativeDocumentMoniker": "DataFactory\\Infrastructure\\business\\CaseMgt.cs",
               "ToolTip": "E:\\Project-2\\New Project\\LMS\\VS2022\\VS2022\\ERPWebApi-Dev\\DataFactory\\Infrastructure\\business\\CaseMgt.cs",
               "RelativeToolTip": "DataFactory\\Infrastructure\\business\\CaseMgt.cs",
-              "ViewState": "AQIAABcDAAAAAAAAAAAAwDIDAAAAAAAA",
+              "ViewState": "AQIAAGoCAAAAAAAAAAAmwAYDAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-05T08:20:43.508Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "CaseController.cs",
               "DocumentMoniker": "E:\\Project-2\\New Project\\LMS\\VS2022\\VS2022\\ERPWebApi-Dev\\CTG-ERPWebApi\\api\\business\\CaseController.cs",
               "RelativeDocumentMoniker": "CTG-ERPWebApi\\api\\business\\CaseController.cs",
               "ToolTip": "E:\\Project-2\\New Project\\LMS\\VS2022\\VS2022\\ERPWebApi-Dev\\CTG-ERPWebApi\\api\\business\\CaseController.cs",
               "RelativeToolTip": "CTG-ERPWebApi\\api\\business\\CaseController.cs",
-              "ViewState": "AQIAAMoAAAAAAAAAAAAkwN8AAAAQAAAA",
+              "ViewState": "AQIAALwAAAAAAAAAAAAiwMsAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-30T12:15:15.011Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DeedController.cs",
+              "DocumentMoniker": "E:\\Project-2\\New Project\\LMS\\VS2022\\VS2022\\ERPWebApi-Dev\\CTG-ERPWebApi\\api\\business\\DeedController.cs",
+              "RelativeDocumentMoniker": "CTG-ERPWebApi\\api\\business\\DeedController.cs",
+              "ToolTip": "E:\\Project-2\\New Project\\LMS\\VS2022\\VS2022\\ERPWebApi-Dev\\CTG-ERPWebApi\\api\\business\\DeedController.cs",
+              "RelativeToolTip": "CTG-ERPWebApi\\api\\business\\DeedController.cs",
+              "ViewState": "AQIAAHAAAAAAAAAAAADwvz8AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T11:40:00.765Z"
             }
           ]
         }

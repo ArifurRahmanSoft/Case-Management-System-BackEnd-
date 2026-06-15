@@ -196,7 +196,7 @@ namespace CTG_ERPWebApi.api.business.configuration
 
         //GetDeedDashbordData
         // GET: api/case/getcasedashbord
-        [HttpGet("[action]")]//BasicAuthorization
+   /*     [HttpGet("[action]")]//BasicAuthorization
         public async Task<object> getdashbordbyarea([FromQuery] string param)
         {
             object resdata = null;
@@ -209,13 +209,13 @@ namespace CTG_ERPWebApi.api.business.configuration
             {
                 resdata
             };
-        }
+        }*/
 
 
        
         //GetDeedDashbordData
         // GET: api/case/getcasedashbord
-        [HttpGet("[action]")]//BasicAuthorization
+       /* [HttpGet("[action]")]//BasicAuthorization
         public async Task<object> getdeeddashbord([FromQuery] string param)
         {
             object resdata = null;
@@ -228,7 +228,7 @@ namespace CTG_ERPWebApi.api.business.configuration
             {
                 resdata
             };
-        }
+        }*/
 
         #endregion
     }

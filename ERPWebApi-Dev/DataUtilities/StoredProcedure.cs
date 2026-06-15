@@ -695,11 +695,12 @@
         public const string SpGet_DocGetById = "CASESETUP.Get_DocumentById";
 
         public const string SpGet_Dashbord = "CASESETUP.Get_CaseDashbord";
-
-        public const string SpGet_DashbordByDistThnaMouza = "CASESETUP.Get_DashbordByDistThnaMouza";
-        public const string SpGet_DeedDashbord = "CASESETUP.Get_LandDashbordByDeed";
-
         #endregion Case Setup
+
+        #region Dashboard Setup
+        public const string SpGet_DashbordByDistThnaMouza = "LANDDEED.Get_DashbordByDistThnaMouza";
+        public const string SpGet_DeedDashbord = "LANDDEED.Get_LandDashbordByDeed";
+        #endregion Dashboard Setup
 
 
         #endregion Oracle
